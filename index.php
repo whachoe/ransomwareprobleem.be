@@ -276,7 +276,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
                 <div class="team-member">
                     <img src="img/team/tom.png" class="img-responsive img-circle" alt="">
                     <h4>Tom Schouteden</h4>
-                    <p class="text-muted">Chief Ransom Officer</p>
+                    <p class="text-muted">Chief Ransomware Officer</p>
                     <ul class="list-inline social-buttons hide">
                         <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
@@ -338,7 +338,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
                 <div class="team-member">
                     <img src="img/team/jeroen.jpg" class="img-responsive img-circle" alt="">
                     <h4>Jeroen Ost</h4>
-                    <p class="text-muted">Malware Expert</p>
+                    <p class="text-muted">Cryptography Expert</p>
                     <ul class="list-inline social-buttons hide">
                         <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
