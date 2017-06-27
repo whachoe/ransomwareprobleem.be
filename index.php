@@ -179,7 +179,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">About</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 class="section-subheading text-muted">Recente gebeurtenissen</h3>
             </div>
         </div>
         <div class="row">
@@ -274,10 +274,10 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
         <div class="row">
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Kay Garland</h4>
-                    <p class="text-muted">Lead Designer</p>
-                    <ul class="list-inline social-buttons">
+                    <img src="img/team/tom.png" class="img-responsive img-circle" alt="">
+                    <h4>Tom Schouteden</h4>
+                    <p class="text-muted">Chief Ransom Officer</p>
+                    <ul class="list-inline social-buttons hide">
                         <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
                         <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -289,10 +289,10 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Larry Parker</h4>
-                    <p class="text-muted">Lead Marketer</p>
-                    <ul class="list-inline social-buttons">
+                    <img src="img/team/jasper.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Jasper Nuyens</h4>
+                    <p class="text-muted">CEO</p>
+                    <ul class="list-inline social-buttons hide">
                         <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
                         <li><a href="#"><i class="fa fa-facebook"></i></a>
@@ -304,10 +304,57 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>Diana Pertersen</h4>
-                    <p class="text-muted">Lead Developer</p>
-                    <ul class="list-inline social-buttons">
+                    <img src="img/team/jo.png" class="img-responsive img-circle" alt="">
+                    <h4>Jo Giraerts</h4>
+                    <p class="text-muted">Security Expert</p>
+                    <ul class="list-inline social-buttons hide ">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="img/team/joeri.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Joeri Cornelissens</h4>
+                    <p class="text-muted">Senior Bitcoin Trader</p>
+                    <ul class="list-inline social-buttons hide">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="img/team/jeroen.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Jeroen Ost</h4>
+                    <p class="text-muted">Malware Expert</p>
+                    <ul class="list-inline social-buttons hide">
+                        <li><a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="img/team/geert.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Geert Fannes</h4>
+                    <p class="text-muted">Machine Learning Expert</p>
+                    <ul class="list-inline social-buttons hide ">
                         <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
                         <li><a href="#"><i class="fa fa-facebook"></i></a>
