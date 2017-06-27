@@ -146,7 +146,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Standaard</h4>
-                    <ul class="text-muted list-group">
+                    <ul class="text-muted list-group list-unstyled">
                         <li>asdasdf</li>
                         <li>23455</li>
                         <li>h3425gg</li>
@@ -161,7 +161,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
                         <i class="fa fa-btc fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Gold</h4>
-                    <ul class="text-muted list-group">
+                    <ul class="text-muted list-group list-unstyled">
                         <li>asdasdf</li>
                         <li>23455</li>
                         <li>h3425gg</li>
