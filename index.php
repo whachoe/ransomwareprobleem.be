@@ -1,3 +1,6 @@
+<?php
+$domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -49,7 +52,7 @@
                     data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">RansomwareProbleem.be</a>
+            <a class="navbar-brand page-scroll" href="#page-top"><?php echo $domain ?></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -149,6 +152,7 @@
                         <li>h3425gg</li>
                         <li>&euro; 4950</li>
                     </ul>
+                    <a href="#contact" class="btn btn-default">Bestel nu</a>
                 </div>
 
                 <div class="col-md-6">
@@ -163,6 +167,7 @@
                         <li>h3425gg</li>
                         <li>&euro; 14950</li>
                     </ul>
+                    <a href="#contact" class="btn btn-default">Bestel nu</a>
                 </div>
             </div>
         </div>
@@ -262,7 +267,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Our Amazing Team</h2>
+                <h2 class="section-heading">Ons Team</h2>
                 <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
             </div>
         </div>
@@ -403,7 +408,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; RansomwareProbleem.be 2017</span>
+                <span class="copyright">Copyright &copy; <?php echo $domain ?> 2017</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
