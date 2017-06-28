@@ -1,5 +1,7 @@
 <?php
 $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
+$domain[0] = strtoupper($domain[0]);
+$domain[10] = strtoupper($domain[10]);
 ?>
 <!DOCTYPE html>
 <html lang="en">
