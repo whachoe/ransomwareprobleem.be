@@ -188,74 +188,77 @@ $domain[10] = strtoupper($domain[10]);
                 <ul class="timeline">
                     <li>
                         <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                            <img class="img-circle img-responsive" src="img/about/aids.png" alt="">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2009-2011</h4>
-                                <h4 class="subheading">Our Humble Beginnings</h4>
+                                <h4>1989</h4>
+                                <h4 class="subheading">De allereerste attack</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">Joseph Popp verspreidt de <b>AIDS Trojan</b> via 20000 floppy discs. Op de floppies stond een programma dat de kans op AIDS berekende aan de hand van een in te vullen formulier. Er stond echter ook een malware programma op dat na 90 opstarten van de computer, een boodschap toonde om $189 te betalen en verdere toegang tot de computer verhinderde.</p>
                             </div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                            <img class="img-circle img-responsive" src="img/about/cryptolocker.png" alt="">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
+                                <h4>September - December 2013</h4>
+                                <h4 class="subheading">CryptoLocker</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">Een nieuwe soort malware Cryptolocker infecteert meer dan <b>250 000</b> systemen. Het wordt verspreid door het notoire Zeus botnet dat pas in 2014 kan worden ontmanteld om even later al weer op te duiken. Nieuwe varianten van Cryptolocker, waarvan de bekendste: CryptoWall en TorrentLocker. Ze richten een ravage aan.</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                            <img class="img-circle img-responsive" src="img/about/tesla.png" alt="">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>December 2012</h4>
-                                <h4 class="subheading">Transition to Full Service</h4>
+                                <h4>2015</h4>
+                                <h4 class="subheading">Bitcoin ransoms: TeslaCrypt </h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">In 2015 begint het TeslaCrypt virus betaling te vragen in Bitcoin en in enkele gevallen Paypal. In datzelfde jaar voert het <b>Armada Collective</b> een gecoördineerde aanval uit op Griekse banken. Ze vroegen een som van 20 000 Bitcoin (&euro; 7 miljoen) maar de banken gaven niet toe en beveiligden hun netwerken.</b></p>
                             </div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                            <img class="img-circle img-responsive" src="img/about/wannacry.jpg" alt="">
                         </div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>July 2014</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
+                                <h4>Mei 2017</h4>
+                                <h4 class="subheading">WannaCry</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut
-                                    voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit
-                                    vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                <p class="text-muted">Meer dan <b>230,000 computers</b> worden gegijzeld door het WannaCry virus via een security-bug in het Windows operating systeem. Microsoft is echter snel met het uitbrengen van een patch en een week later zijn de ongeinfecteerde machines beveiligd. Toch blijft er nog een substantieel aantal systemen kwetsbaar door ontoerijkende beveiligingsmaatregelen en lakse upgrade-policies.</p>
                             </div>
                         </div>
                     </li>
-                    <li class="timeline-inverted">
+                    <li>
                         <div class="timeline-image">
                             <h4>Wij
                                 <br>zijn er
                                 <br>voor u!</h4>
                         </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>Mei 2017</h4>
+                                <h4 class="subheading"><?php echo $domain ?></h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p class="text-muted">De oprichters van <?php echo $domain ?> besluiten om hun expertise te bundelen en oplossingen aan te bieden voor de Belgische markt.</p>
+                            </div>
+                        </div>
+
+
                     </li>
                 </ul>
             </div>
