@@ -166,13 +166,13 @@ $domain[10] = strtoupper($domain[10]);
                         <li>Eventuele bitcoin transactie kosten in uw opdracht</li>
                         <li>vervoer van en naar en uw bedrijf</li>
                         <li>oplossing dezelfde dag</li>
-                        <li><span class="badge">&euro; 4950</span></li>
+                        <li><span class="badge"><span class="fa fa-eur"></span> 4950</span></li>
                     </ul>
                     <a href="#contact" class="btn btn-default">Bestel nu</a>
                 </div>
 
                 <div class="col-md-1"></div>
-                
+
                 <div class="col-md-5">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -195,7 +195,7 @@ $domain[10] = strtoupper($domain[10]);
                     <ul class="text-muted list-group">
                         <li>Eventuele bitcoin transactie kosten in uw opdracht</li>
                         <li>Vervoer van en naar en uw bedrijf</li>
-                        <li><span class="badge">&euro; 14950</span></li>
+                        <li><span class="badge"><span class="fa fa-eur"></span> 14950</span></li>
                     </ul>
                     <a href="#contact" class="btn btn-default">Bestel nu</a>
                 </div>
