@@ -148,9 +148,9 @@ $domain[10] = strtoupper($domain[10]);
                     </span>
                     <h4 class="service-heading">Standaard</h4>
                     <ul class="text-muted list-group list-unstyled">
-                        <li>asdasdf</li>
-                        <li>23455</li>
-                        <li>h3425gg</li>
+                        <li>Beperkt tot 1 systeem</li>
+                        <li>Op afspraak</li>
+                        <li></li>
                         <li>&euro; 4950</li>
                     </ul>
                     <a href="#contact" class="btn btn-default">Bestel nu</a>
@@ -163,9 +163,9 @@ $domain[10] = strtoupper($domain[10]);
                     </span>
                     <h4 class="service-heading">Gold</h4>
                     <ul class="text-muted list-group list-unstyled">
-                        <li>asdasdf</li>
-                        <li>23455</li>
-                        <li>h3425gg</li>
+                        <li>Tot 3 systemen</li>
+                        <li>Dezelfde dag van aanvraag</li>
+                        <li></li>
                         <li>&euro; 14950</li>
                     </ul>
                     <a href="#contact" class="btn btn-default">Bestel nu</a>
