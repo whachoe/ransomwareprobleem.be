@@ -141,7 +141,7 @@ $domain[10] = strtoupper($domain[10]);
                 <h3 class="section-subheading text-muted">Maak uw keuze</h3>
             </div>
             <div class="row text-center">
-                <div class="col-md-6">
+                <div class="col-md-6 col-md-push-2">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
@@ -156,7 +156,7 @@ $domain[10] = strtoupper($domain[10]);
                     <a href="#contact" class="btn btn-default">Bestel nu</a>
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-md-6 col-md-pull-2">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-btc fa-stack-1x fa-inverse"></i>
