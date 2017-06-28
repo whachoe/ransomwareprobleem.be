@@ -110,7 +110,7 @@ $domain[10] = strtoupper($domain[10]);
                     </span>
                 <h4 class="service-heading">Recovery</h4>
                 <p class="text-muted">Wij helpen u de schade te herstellen van een ransomware aanval. We hebben een
-                    uitgebreide bibliotheek van ransomware en bijbehorende oplossingen.</p>
+                    uitgebreide bibliotheek van ransomware en bijbehorende oplossingen die we dagelijks updaten.</p>
             </div>
             <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -118,8 +118,7 @@ $domain[10] = strtoupper($domain[10]);
                         <i class="fa fa-btc fa-stack-1x fa-inverse"></i>
                     </span>
                 <h4 class="service-heading">Onderhandeling</h4>
-                <p class="text-muted">We hebben al veel ervaring in onderhandelingen met ransomware auteurs. Wij
-                    garanderen een vlotte afhandeling en minimale downtime.</p>
+                <p class="text-muted">Indien manuele herstelling niet werkt, kunnen we overgaan op onderhandeling met de malware auteurs. We hebben jarenlange ervaring in onderhandelingen met ransomware auteurs. Garantie voor een vlotte afhandeling en minimale downtime.</p>
             </div>
             <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -127,8 +126,8 @@ $domain[10] = strtoupper($domain[10]);
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
                 <h4 class="service-heading">Preventie</h4>
-                <p class="text-muted">Wij helpen uw netwerk-infrastructuur te beveiligen. Onze specialisten hebben een
-                    diepgaande kennis van de laatste attack vectors.</p>
+                <p class="text-muted">Wij helpen uw netwerk-infrastructuur te beveiligen tegen nieuwe aanvallen. Onze specialisten hebben een
+                    diepgaande kennis van de laatste malware software en kunnen u helpen bij het kiezen van de beste oplossingen. </p>
             </div>
         </div>
     </div>
