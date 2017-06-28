@@ -118,7 +118,7 @@ $domain[10] = strtoupper($domain[10]);
                         <i class="fa fa-btc fa-stack-1x fa-inverse"></i>
                     </span>
                 <h4 class="service-heading">Onderhandeling</h4>
-                <p class="text-muted">Indien manuele herstelling niet werkt, kunnen we overgaan op onderhandeling met de malware auteurs. We hebben jarenlange ervaring in onderhandelingen met ransomware auteurs. Garantie voor een vlotte afhandeling en minimale downtime.</p>
+                <p class="text-muted">Indien manuele herstelling niet werkt, kunnen we overgaan op onderhandeling met de malware auteurs. We hebben jarenlange ervaring in onderhandelingen met ransomware auteurs. Garantie voor een vlotte afhandeling en minimale downtime. </p>
             </div>
             <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -140,33 +140,58 @@ $domain[10] = strtoupper($domain[10]);
                 <h2 class="section-heading">Pricing</h2>
                 <h3 class="section-subheading text-muted">Maak uw keuze</h3>
             </div>
-            <div class="row text-center">
-                <div class="col-md-6 col-md-push-2">
+            <div class="row">
+                <div class="col-md-6">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Standaard</h4>
-                    <ul class="text-muted list-group list-unstyled">
-                        <li>Beperkt tot 1 systeem</li>
-                        <li>Op afspraak</li>
-                        <li></li>
-                        <li>&euro; 4950</li>
+                    <ul class="text-muted list-group">
+                        <li>Resultaatsverbintenis</li>
+                        <li>De interventie wordt ingeboekt aan de hand van onze beschikbaarheid</li>
+                        <li>Ter plaatse analyse van het probleem</li>
+                        <li>Forensische backup</li>
+                        <li>Stappenplan om tot de oplossing te komen</li>
+                        <li>Implementatie van de oplossing</li>
+                        <li>Backup van de herstelde data</li>
+                        <li>Lange termijn beveiliging tegen toekomstige Ransomware aanvallen</li>
+                        <li><b>1</b> systeem inclusief</li>
+                    </ul>
+
+                    <b>Bevat deze kosten niet:</b>
+                    <ul class="list-group text-muted">
+                        <li>Eventuele bitcoin transactie kosten in uw opdracht</li>
+                        <li>vervoer van en naar en uw bedrijf</li>
+                        <li>oplossing dezelfde dag</li>
+                        <li><span class="badge">&euro; 4950</span></li>
                     </ul>
                     <a href="#contact" class="btn btn-default">Bestel nu</a>
                 </div>
 
-                <div class="col-md-6 col-md-pull-2">
+                <div class="col-md-6">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-btc fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Gold</h4>
-                    <ul class="text-muted list-group list-unstyled">
-                        <li>Tot 3 systemen</li>
-                        <li>Dezelfde dag van aanvraag</li>
-                        <li></li>
-                        <li>&euro; 14950</li>
+                    <h4 class="service-heading">Gold -> Now - Onmiddellijke Enterprise Oplossing</h4>
+                    <ul class="text-muted list-group">
+                        <li>Resultaatsverbintenis</li>
+                        <li><b>Vandaag</b> komen we ter plaatse</li>
+                        <li>Ter plaatse analyse van het probleem</li>
+                        <li>Forensische backup</li>
+                        <li>Stappenplan om tot de oplossing te komen</li>
+                        <li>Implementatie van de oplossing</li>
+                        <li>Backup van de herstelde data</li>
+                        <li>Lange termijn beveiliging tegen toekomstige Ransomware aanvallen</li>
+                        <li><b>3</b> systemen inclusief</li>
+                    </ul>
+
+                    <b>Bevat deze kosten niet:</b>
+                    <ul class="text-muted list-group">
+                        <li>Eventuele bitcoin transactie kosten in uw opdracht</li>
+                        <li>Vervoer van en naar en uw bedrijf</li>
+                        <li><span class="badge">&euro; 14950</span></li>
                     </ul>
                     <a href="#contact" class="btn btn-default">Bestel nu</a>
                 </div>
@@ -411,9 +436,22 @@ $domain[10] = strtoupper($domain[10]);
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Contacteer ons</h2>
-                <h3 class="section-subheading text-muted">+32 2 74 74 701</h3>
+                <h3 class="section-subheading"></h3>
             </div>
         </div>
+
+        <div class="row well well-sm">
+            <div class="col-lg-1">
+                <h4>Tel:</h4>
+            </div>
+            <div class="col-lg-2">
+                <h4> +32 2 747 47 01</h4>
+            </div>
+
+        </div>
+
+        <br/><br/>
+
         <div class="row">
             <div class="col-lg-12">
                 <form name="sentMessage" id="contactForm" novalidate>
