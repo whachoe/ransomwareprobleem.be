@@ -1,6 +1,6 @@
 <?php
 
-$ourEmail = "jo.giraerts@gmail.com";
+$ourEmail = "info@ransomwareprobleem.be";
 
 // Check for empty fields
 if(empty($_POST['name'])      ||
