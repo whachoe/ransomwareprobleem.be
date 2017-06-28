@@ -178,7 +178,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">About</h2>
+                <h2 class="section-heading">Onze Story</h2>
                 <h3 class="section-subheading text-muted">Recente gebeurtenissen</h3>
             </div>
         </div>
@@ -268,7 +268,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Ons Team</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 class="section-subheading text-muted">Ons team heeft uitstekende banden binnen de Crypto en Security community. <br/>Wij staan u bij met professioneel advies en effectieve oplossingen.</h3>
             </div>
         </div>
         <div class="row">
@@ -367,8 +367,7 @@ $domain = str_replace(array("www.", ".be"), "", $_SERVER['HTTP_HOST']);
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque,
-                    laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                <p class="large text-muted"></p>
             </div>
         </div>
     </div>
